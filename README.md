@@ -10,6 +10,9 @@ I'm Hitoyuki. Nice to meet you!
 
 Let's connect and code our way to success! 🌟
 
+[![LinkedIn](https://img.shields.io/badge/-Hitoyuki%20Watanabe-0077B5.svg?logo=LinkedIn&style=flat-square)](https://www.linkedin.com/in/htwatanabe/)
+[![X(formerly Twitter)](https://img.shields.io/badge/-@htwatanabe-0D0116.svg?logo=X&style=flat-square)](https://x.com/htwatanabe)
+
 ## My skills
 
 ### Languages
