@@ -17,7 +17,18 @@ Let's connect and code our way to success! 🌟
 
 ### Languages
 
-C#, Python, PHP, Shell Script, Java, Go, C, JavaScript, SQL, HTML, CSS
+<!-- C#, Go, Python, JavaScript, PHP, Java, C, Shell Script, SQL, HTML, CSS -->
+[![C#](https://img.shields.io/badge/-C%23-512BD4.svg?logoColor=white&style=flat-square&logo=csharp)](#)
+[![Go](https://img.shields.io/badge/-Go-00ADD8.svg?logoColor=white&style=flat-square&logo=go)](#)
+[![Python](https://img.shields.io/badge/-Python-3776AB.svg?logoColor=white&style=flat-square&logo=python)](#)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logoColor=white&style=flat-square&logo=javascript)](#)
+[![PHP](https://img.shields.io/badge/-PHP-777BB4.svg?logoColor=white&style=flat-square&logo=php)](#)
+[![Java](https://img.shields.io/badge/-Java-F89820.svg?logoColor=white&style=flat-square&logo=java)](#)
+[![C](https://img.shields.io/badge/-C-A8B9CC.svg?logoColor=white&style=flat-square&logo=c)](#)
+[![Bash](https://img.shields.io/badge/-Bash-4EAA25.svg?logoColor=white&style=flat-square&logo=gnubash)](#)
+[![SQL](https://img.shields.io/badge/-SQL-00758F.svg?logoColor=white&style=flat-square&logo=sql)](#)
+[![HTML](https://img.shields.io/badge/-HTML-E34F26.svg?logoColor=white&style=flat-square&logo=html5)](#)
+[![CSS](https://img.shields.io/badge/-CSS-1572B6.svg?logoColor=white&style=flat-square&logo=css3)](#)
 
 ### Frameworks
 
