@@ -44,4 +44,4 @@ Git, GitHub, Docker, Terraform, Fluentd, Datadog, Sentry, SendGrid, Atlas, etc.
 ## My GitHub stats
 
 ![Hitoyuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=htwatanabe&show_icons=true&count_private=true&theme=blue-green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htwatanabe&layout=compact&count_private=true&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htwatanabe&count_private=true&theme=blue-green)
