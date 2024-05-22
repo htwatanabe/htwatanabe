@@ -69,7 +69,7 @@ VPC, ELB, WAF, EC2, ECS, Fargate, ECR, NAT gateway, Global Accelerator, SQS, Ela
 <!-- Git, GitHub, GitHub Actions, Docker, Terraform, Fluentd, Datadog, Sentry, SendGrid, Atlas, etc. -->
 [![Git](https://img.shields.io/badge/-Git-F05032.svg?logoColor=white&style=popout&logo=git)](#other-technologies)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?logoColor=white&style=popout&logo=github)](#other-technologies)
-[![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF.svg?logoColor=white&style=popout&logo=docker)](#other-technologies)
+[![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF.svg?logoColor=white&style=popout&logo=githubactions)](#other-technologies)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED.svg?logoColor=white&style=popout&logo=docker)](#other-technologies)
 [![Terraform](https://img.shields.io/badge/-Terraform-844FBA.svg?logoColor=white&style=popout&logo=terraform)](#other-technologies)
 [![Terragrunt](https://img.shields.io/badge/-Terragrunt-844FBA.svg?logoColor=white&style=popout&logo=terragrunt)](#other-technologies)
