@@ -25,7 +25,9 @@ Let's connect and code our way to success! 🌟
 [![PHP](https://img.shields.io/badge/-PHP-777BB4.svg?logoColor=white&style=flat-square&logo=php)](#languages)
 [![Java](https://img.shields.io/badge/-Java-F89820.svg?logoColor=white&style=flat-square&logo=java)](#languages)
 [![C](https://img.shields.io/badge/-C-A8B9CC.svg?logoColor=white&style=flat-square&logo=c)](#languages)
+
 [![Bash](https://img.shields.io/badge/-Bash-4EAA25.svg?logoColor=white&style=flat-square&logo=gnubash)](#languages)
+[![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE.svg?logoColor=white&style=flat-square&logo=powershell)](#languages)
 [![SQL](https://img.shields.io/badge/-SQL-00758F.svg?logoColor=white&style=flat-square&logo=sql)](#languages)
 [![HTML](https://img.shields.io/badge/-HTML-E34F26.svg?logoColor=white&style=flat-square&logo=html5)](#languages)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6.svg?logoColor=white&style=flat-square&logo=css3)](#languages)
