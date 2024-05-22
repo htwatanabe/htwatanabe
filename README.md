@@ -24,7 +24,7 @@ ASP.NET, Dapper ORM, EF Core, CodeIgniter, Gin, ent
 ### Databases
 Amazon Aurora, MySQL, Microsoft SQL Server, Redis
 
-### Sever OS
+### Server OS
 Linux, Unix, Windows Server
 
 ### Cloud platforms
