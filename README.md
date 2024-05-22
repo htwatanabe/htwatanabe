@@ -63,7 +63,7 @@ Let's connect and code our way to success! 🌟
 
 #### [![Amazon Web Services](https://img.shields.io/badge/-Amazon_Web_Services-232F3E.svg?logoColor=white&style=flat-square&logo=amazonaws)](#cloud-platforms)
 
-VPC, ELB, WAF, EC2, ECS, Fargate, ECR, NAT gateway, Global Accelerator, ElastiCache, RDS, Lambda, S3, Athena, Cognito, Secrets Manager, SNS, CodeCommit, CodeDeploy, CodePipeline, etc.
+VPC, ELB, WAF, EC2, ECS, Fargate, ECR, NAT gateway, Global Accelerator, SQS, ElastiCache, RDS, Lambda, S3, Athena, Cognito, Secrets Manager, SNS, CodeCommit, CodeDeploy, CodePipeline, etc.
 
 ### Other technologies
 
