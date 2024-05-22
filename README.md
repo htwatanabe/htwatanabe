@@ -25,7 +25,6 @@ Let's connect and code our way to success! 🌟
 [![PHP](https://img.shields.io/badge/-PHP-777BB4.svg?logoColor=white&style=popout&logo=php)](#languages)
 [![Java](https://img.shields.io/badge/-Java-F89820.svg?logoColor=white&style=popout&logo=java)](#languages)
 [![C](https://img.shields.io/badge/-C-A8B9CC.svg?logoColor=white&style=popout&logo=c)](#languages)
-
 [![Bash](https://img.shields.io/badge/-Bash-4EAA25.svg?logoColor=white&style=popout&logo=gnubash)](#languages)
 [![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE.svg?logoColor=white&style=popout&logo=powershell)](#languages)
 [![SQL](https://img.shields.io/badge/-SQL-00758F.svg?logoColor=white&style=popout&logo=sql)](#languages)
@@ -41,7 +40,6 @@ Let's connect and code our way to success! 🌟
 [![Gin](https://img.shields.io/badge/-Gin-008ECF.svg?logoColor=white&style=popout&logo=gin)](#frameworks--libraries)
 [![ent](https://img.shields.io/badge/-ent-008ECF.svg?logoColor=white&style=popout&logo=ent)](#frameworks--libraries)
 [![Codeigniter](https://img.shields.io/badge/-Codeigniter-EF4223.svg?logoColor=white&style=popout&logo=codeigniter)](#frameworks--libraries)
-
 [![React](https://img.shields.io/badge/-React-61DAFB.svg?logoColor=white&style=popout&logo=react)](#frameworks--libraries)
 
 ### Databases
@@ -51,7 +49,6 @@ Let's connect and code our way to success! 🌟
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1.svg?logoColor=white&style=popout&logo=mysql)](#databases)
 [![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927.svg?logoColor=white&style=popout&logo=microsoftsqlserver)](#databases)
 [![IBM Db2](https://img.shields.io/badge/-IBM_Db2-008000.svg?logoColor=white&style=popout&logo=imbdb2)](#databases)
-
 [![Redis](https://img.shields.io/badge/-Redis-DC382D.svg?logoColor=white&style=popout&logo=redis)](#databases)
 
 ### Server OS
