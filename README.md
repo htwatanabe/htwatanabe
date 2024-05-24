@@ -12,6 +12,7 @@ Let's connect and code our way to success! 🌟
 
 [![LinkedIn](https://img.shields.io/badge/-Hitoyuki_Watanabe-0A66C2.svg?logo=LinkedIn&style=flat-square)](https://www.linkedin.com/in/htwatanabe/)
 [![X(formerly Twitter)](https://img.shields.io/badge/-@htwatanabe-000000.svg?logo=X&style=flat-square)](https://x.com/htwatanabe)
+[![LeetCode](https://img.shields.io/badge/-@htwatanabe-000000.svg?logo=leetcode&style=flat-square)](https://leetcode.com/htwatanabe/)
 
 ## My skills
 
