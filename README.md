@@ -61,8 +61,7 @@ Let's connect and code our way to success! 🌟
 
 ### Cloud platforms
 
-#### [![Amazon Web Services](https://img.shields.io/badge/-Amazon_Web_Services-232F3E.svg?logoColor=white&style=popout&logo=amazonaws)](#cloud-platforms)
-
+[![Amazon Web Services](https://img.shields.io/badge/-Amazon_Web_Services-232F3E.svg?logoColor=white&style=popout&logo=amazonaws)](#cloud-platforms)  
 VPC, ELB, WAF, EC2, ECS, Fargate, ECR, NAT gateway, Global Accelerator, SQS, ElastiCache, RDS, Lambda, S3, Athena, Cognito, Secrets Manager, SNS, CodeCommit, CodeDeploy, CodePipeline, etc.
 
 ### Other technologies
@@ -82,7 +81,7 @@ VPC, ELB, WAF, EC2, ECS, Fargate, ECR, NAT gateway, Global Accelerator, SQS, Ela
 
 ## My stats
 
-![Hitoyuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=htwatanabe&show_icons=true&count_private=true&hide_border=true&theme=blue-green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htwatanabe&count_private=true&hide_border=true&theme=blue-green)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=htwatanabe&show_icons=true&count_private=true&hide_border=true&theme=blue-green)](#my-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htwatanabe&count_private=true&hide_border=true&theme=blue-green)](#my-stats)
 
-![Profile Views](https://komarev.com/ghpvc/?username=htwatanabe)
+[![Profile Views](https://komarev.com/ghpvc/?username=htwatanabe)](#my-stats)
