@@ -8,7 +8,7 @@ I'm Hitoyuki. Nice to meet you!
 
 💡 I thrive on collaboration and learning from fellow engineers. I'm always eager to connect with like-minded individuals to exchange insights, engage in friendly competition, and grow together professionally.
 
-Let's connect and code our way to success! 🌟
+Let's connect through engineering activities and code our way to success!  🌟
 
 [![LinkedIn](https://img.shields.io/badge/-Hitoyuki_Watanabe-0A66C2.svg?logo=LinkedIn&style=flat-square)](https://www.linkedin.com/in/htwatanabe/)
 [![X(formerly Twitter)](https://img.shields.io/badge/-@htwatanabe-000000.svg?logo=X&style=flat-square)](https://x.com/htwatanabe)
