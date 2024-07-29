@@ -19,7 +19,7 @@ Let's connect through engineering activities and code our way to success!  🌟
 ### Languages
 
 <!-- C#, Go, Python, JavaScript, PHP, Java, C, Shell Script, SQL, HTML, CSS -->
-[![C#](https://img.shields.io/badge/-C%23-512BD4.svg?logoColor=white&style=popout&logo=csharp)](#languages)
+[![C#](https://img.shields.io/badge/-C%23-512BD4.svg?logoColor=white&style=popout&logo=.net)](#languages)
 [![Go](https://img.shields.io/badge/-Go-00ADD8.svg?logoColor=white&style=popout&logo=go)](#languages)
 [![Python](https://img.shields.io/badge/-Python-3776AB.svg?logoColor=white&style=popout&logo=python)](#languages)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logoColor=white&style=popout&logo=javascript)](#languages)
@@ -35,8 +35,8 @@ Let's connect through engineering activities and code our way to success!  🌟
 ### Frameworks & Libraries
 
 <!-- ASP.NET Core, Dapper ORM, EF Core, Gin, ent, CodeIgniter -->
-[![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4.svg?logoColor=white&style=popout&logo=aspdotnetcore)](#frameworks--libraries)
-[![EF Core](https://img.shields.io/badge/-EF_Core-512BD4.svg?logoColor=white&style=popout&logo=efcore)](#frameworks--libraries)
+[![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4.svg?logoColor=white&style=popout&logo=.net)](#frameworks--libraries)
+[![EF Core](https://img.shields.io/badge/-EF_Core-512BD4.svg?logoColor=white&style=popout&logo=.net)](#frameworks--libraries)
 [![Dapper ORM](https://img.shields.io/badge/-Dapper_ORM-D11C2C.svg?logoColor=white&style=popout&logo=dapperorm)](#frameworks--libraries)
 [![Gin](https://img.shields.io/badge/-Gin-008ECF.svg?logoColor=white&style=popout&logo=gin)](#frameworks--libraries)
 [![ent](https://img.shields.io/badge/-ent-008ECF.svg?logoColor=white&style=popout&logo=ent)](#frameworks--libraries)
