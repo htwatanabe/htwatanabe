@@ -17,7 +17,7 @@ Let's connect through engineering activities and code our way to success!  🌟
 ## My skills
 
 ### Languages
-
+    
 <!-- C#, Go, Python, JavaScript, PHP, Java, C, Shell Script, SQL, HTML, CSS -->
 [![C#](https://img.shields.io/badge/-C%23-512BD4.svg?logoColor=white&style=popout&logo=.net)](#languages)
 [![Go](https://img.shields.io/badge/-Go-00ADD8.svg?logoColor=white&style=popout&logo=go)](#languages)
@@ -61,7 +61,7 @@ Let's connect through engineering activities and code our way to success!  🌟
 
 ### Cloud platforms
 
-[![Amazon Web Services](https://img.shields.io/badge/-Amazon_Web_Services-232F3E.svg?logoColor=white&style=popout&logo=amazonaws)](#cloud-platforms)  
+[![Amazon Web Services](https://img.shields.io/badge/-Amazon_Web_Services-232F3E.svg?logoColor=white&style=popout&logo=amazonwebservices)](#cloud-platforms)  
 VPC, ELB, WAF, EC2, ECS, Fargate, ECR, NAT gateway, Global Accelerator, SQS, ElastiCache, RDS, Lambda, S3, Athena, Cognito, Secrets Manager, SNS, CodeCommit, CodeDeploy, CodePipeline, etc.
 
 ### Other technologies
