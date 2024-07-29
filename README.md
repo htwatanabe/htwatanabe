@@ -78,6 +78,7 @@ VPC, ELB, WAF, EC2, ECS, Fargate, ECR, NAT gateway, Global Accelerator, SQS, Ela
 [![Sentry](https://img.shields.io/badge/-Sentry-362D59.svg?logoColor=white&style=popout&logo=sentry)](#other-technologies)
 [![SendGrid](https://img.shields.io/badge/-SendGrid-1D9BF0.svg?logoColor=white&style=popout&logo=twilio)](#other-technologies)
 [![Atlas](https://img.shields.io/badge/-Atlas-F7DF1E.svg?logoColor=white&style=popout&logo=atlas)](#other-technologies)
+[![Postman](https://img.shields.io/badge/-Postman-FF6C37.svg?logoColor=white&style=popout&logo=postman)](#other-technologies)
 
 ## My stats
 
