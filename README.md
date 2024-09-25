@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Hitoyuki. Nice to meet you!
+I'm Hito. Nice to meet you!
 
 👨‍💻 I'm a Backend Engineer originally from Japan, currently calling Australia home. My journey led me here to be with my partner and explore exciting new opportunities in the tech landscape.
 
@@ -8,16 +8,17 @@ I'm Hitoyuki. Nice to meet you!
 
 💡 I thrive on collaboration and learning from fellow engineers. I'm always eager to connect with like-minded individuals to exchange insights, engage in friendly competition, and grow together professionally.
 
-Let's connect through engineering activities and code our way to success!  🌟
+Let's connect through engineering activities and code our way to success! 🌟
 
 [![LinkedIn](https://img.shields.io/badge/-Hitoyuki_Watanabe-0A66C2.svg?logo=LinkedIn&style=flat-square)](https://www.linkedin.com/in/htwatanabe/)
 [![X(formerly Twitter)](https://img.shields.io/badge/-@htwatanabe-000000.svg?logo=X&style=flat-square)](https://x.com/htwatanabe)
-[![LeetCode](https://img.shields.io/badge/-@htwatanabe-000000.svg?logo=leetcode&style=flat-square)](https://leetcode.com/htwatanabe/)
+[![LeetCode](https://img.shields.io/badge/-htwatanabe-000000.svg?logo=leetcode&style=flat-square)](https://leetcode.com/htwatanabe/)
+[![Stack Overflow](https://img.shields.io/badge/-Hitoyuki-white.svg?logo=stackoverflow&style=flat-square)](https://stackoverflow.com/users/27456805)
 
 ## My skills
 
 ### Languages
-    
+
 <!-- C#, Go, Python, JavaScript, PHP, Java, C, Shell Script, SQL, HTML, CSS -->
 [![C#](https://img.shields.io/badge/-C%23-512BD4.svg?logoColor=white&style=popout&logo=.net)](#languages)
 [![Go](https://img.shields.io/badge/-Go-00ADD8.svg?logoColor=white&style=popout&logo=go)](#languages)
@@ -77,6 +78,7 @@ VPC, ELB, WAF, EC2, ECS, Fargate, ECR, NAT gateway, Global Accelerator, SQS, Ela
 [![Datadog](https://img.shields.io/badge/-Datadog-632CA6.svg?logoColor=white&style=popout&logo=datadog)](#other-technologies)
 [![Sentry](https://img.shields.io/badge/-Sentry-362D59.svg?logoColor=white&style=popout&logo=sentry)](#other-technologies)
 [![SendGrid](https://img.shields.io/badge/-SendGrid-1D9BF0.svg?logoColor=white&style=popout&logo=twilio)](#other-technologies)
+[![Roslyn](https://img.shields.io/badge/-Roslyn-CC2927.svg?logoColor=white&style=popout&logo=.net)](#other-technologies)
 [![Atlas](https://img.shields.io/badge/-Atlas-F7DF1E.svg?logoColor=white&style=popout&logo=atlas)](#other-technologies)
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37.svg?logoColor=white&style=popout&logo=postman)](#other-technologies)
 
@@ -86,3 +88,5 @@ VPC, ELB, WAF, EC2, ECS, Fargate, ECR, NAT gateway, Global Accelerator, SQS, Ela
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htwatanabe&count_private=true&hide_border=true&theme=blue-green)](#my-stats)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=htwatanabe)](#my-stats)
+
+Thank you for visiting!
