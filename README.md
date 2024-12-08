@@ -15,7 +15,7 @@ Let's connect through engineering activities and code our way to success! 🌟
 [![LeetCode](https://img.shields.io/badge/-htwatanabe-000000.svg?logo=leetcode&style=flat-square)](https://leetcode.com/htwatanabe/)
 [![Stack Overflow](https://img.shields.io/badge/-Hitoyuki-white.svg?logo=stackoverflow&style=flat-square)](https://stackoverflow.com/users/27456805)
 
-## My skills
+## My Skills
 
 ### Languages
 
@@ -60,12 +60,12 @@ Let's connect through engineering activities and code our way to success! 🌟
 [![Unix](https://img.shields.io/badge/-Unix-white.svg?logoColor=white&style=popout&logo=unix)](#server-os)
 [![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D4.svg?logoColor=white&style=popout&logo=windows)](#server-os)
 
-### Cloud platforms
+### Cloud Platforms
 
 [![Amazon Web Services](https://img.shields.io/badge/-Amazon_Web_Services-232F3E.svg?logoColor=white&style=popout&logo=amazonwebservices)](#cloud-platforms)  
 VPC, ELB, WAF, EC2, ECS, Fargate, ECR, NAT gateway, Global Accelerator, SQS, ElastiCache, RDS, Lambda, S3, Athena, Cognito, Secrets Manager, SNS, CodeCommit, CodeDeploy, CodePipeline, etc.
 
-### Other technologies
+### Other Technologies
 
 <!-- Git, GitHub, GitHub Actions, Docker, Terraform, Fluentd, Datadog, Sentry, SendGrid, Atlas, etc. -->
 [![Git](https://img.shields.io/badge/-Git-F05032.svg?logoColor=white&style=popout&logo=git)](#other-technologies)
@@ -82,7 +82,7 @@ VPC, ELB, WAF, EC2, ECS, Fargate, ECR, NAT gateway, Global Accelerator, SQS, Ela
 [![Atlas](https://img.shields.io/badge/-Atlas-F7DF1E.svg?logoColor=white&style=popout&logo=atlas)](#other-technologies)
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37.svg?logoColor=white&style=popout&logo=postman)](#other-technologies)
 
-## My stats
+## My Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=htwatanabe&show_icons=true&count_private=true&hide_border=true&theme=blue-green)](#my-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htwatanabe&count_private=true&hide_border=true&theme=blue-green)](#my-stats)
